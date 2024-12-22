@@ -1,0 +1,43 @@
+Phil Berent
+Phil Berent
+
+4 min read
+·
+Jan 1, 2022
+5
+
+
+
+
+
+
+
+What is the DAI Stablecoin? How Does it Work and How Does it Maintain Its Peg?
+
+The following aims to be a concise summary of the workings of the DAI stable coin and explanation of how it maintains its peg.
+
+DAI is a “stable coin” which always aims to have the value of $1
+DAI was initially released in December 2017 and has stayed closed to its peg since April 2018.
+To Issue DAI users place ETH or other stable coin collateral into a “vault”
+Users can borrow up to 2/3rds of the value of the vault in DAI. The DAI that is borrowed is newly minted and created at the time that the of the user takes the loan.
+This means that at the time of that loans are issued the value of the collateral is at least 150% of the value of the issued DAI.
+Users pay interest, called “stability fees” on their loans. The interest is paid in DAI and goes to the “Maker Buffer”
+Users can withdraw collateral from the vault as long as the value of the collateral remaining is at least 150% of the amount owed (which will equal the initial principal value + accrued interest). Collateral equal to 150% of the amount owed is locked and cannot be withdrawn from the vault.
+Users can repay their loans at any time by paying enough DAI to cover the value of the initial principal and any accrued interest.
+When the loan is repaid the a user can withdraw collateral from their vault.
+If the collateralization ratio falls below 150% then the vault is “liquidated”. This acts as an incentive to vault owners to keep the amount of collateral in the vault as significantly above 150% of the value of the loan so as to avoid the possibility of liquidation.
+If a vault is liquidated the underlying collateral is sold for DAI to repay the loan and accrued interest (“stability fees”) and an additional 13% “liquidation fee” in DAI is charged to the vault owner. The vault owner receives any collateral that remains after enough has been sold to cover the outstanding debt and liquidation fees.
+When loans are repaid or vaults are liquidated DAI is burned equal to the initial loan principal, and the additional DAI (interest (‘stability fees’) and liquidation fees) go to the Maker Buffer.
+Owners of DAI can deposit DAI and earn the “DAI savings rate” as interest on their deposits
+The parameters of the system including the savings rate (interest rate for DAI lending) and the stability fee (interest rate for DAI borrowing) as well as other parameters are set by owners of the MKR governance token
+If an account is liquidated and there is not sufficient collateral in the vault, the additional debt is paid off by DAI Maker Buffer which receives and sells the remaining collateral. If necessary the Maker Buffer sells newly minted MKR tokens to obtain sufficient DAI to pay off the outstanding debt.
+The Maker Buffer grows as it gathers stability fees and liquidation fees. If it grows to over a certain limit, then the excess DAI is used to buy MKR tokens which are then burned. This has the effect of increasing the value of MKR and benefitting the owners. Effectively this process means that the owners of the MKR governance token receive all of the interest and liquidation fees earned, minus the amounts that are used to support the system and pay the DAI savings rate. The level of the Maker Buffer at which these distributions take place is set by the owners of the MKR governance token.
+The owners of the MKR governance token can increase or decrease the savings rate to try to move the DAI back to its peg.
+In the case of an Emergency Shutdown the protocol ensures that (except in the case of overall system under-collateralization) that DAI holders are given collateral valued at $1 per DAI using collateral prices “frozen” at the time of the Shutdown.
+Given all of this why has DAI been so effective at maintaining its peg?
+
+Here’s why:
+
+Its clearly in the interest of the holders of the MKR governance token that the peg should be maintained, as they gain stability fees and liquidity premium only as long as people keep using the DAI token. If DAI was unable to maintain its peg then people would stop using it.
+Holders of the MKR token can increase the savings rate and decrease the stability fees if the DAI falls below $1 encouraging people to create new vaults and issue more DAI. Similarly they can decrease the savings rate and increase the stability fees if the DAI rises above $1 encouraging people to repay their loans resulting in a reduction of the supply of DAI. There are various other mechanisms that can be used to influence price.
+It might seem that these mechanisms would only work slowly. However given that it is understood that these mechanisms will be effective at managing the price “sometime soon”, it means that if the price is below $1 there is an immediate incentive for people to buy now — as they know that they will be able to sell at $1 later. Similarly if the price is above $1 there is an immediate incentive to sell DAI now, as people know they will be able to buy it back more cheaply later. In other words if the price deviates from the peg there is an instant incentive for buyers and sellers to transact in a way which will move DAI back to its peg.
