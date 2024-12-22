@@ -1,0 +1,131 @@
+On the "Liar Paradox"
+I do think that the RS approach absolutely does solve the Liar paradox. Actually, this was my starting point. 
+Here is why:
+
+1. Statements and Referent Spaces
+So, let's go back to my starting point.
+- I define a "statement" as a sequence of words or symbols that says something about something. 
+- I define the thing that it says something about as "the referent."
+- I define the "world talked about in a statement" as "referent space" of that statement.
+- If a statement refers to a given RS let’s say that the statement has that RS as its "context."
+2. Types of RS
+Because of your review, I have realized that there are actually two distinct types of referent space.
+
+- A "physical RS" is an RS about which statements describe the entities and interactions in an actual or imagined physical world. 
+
+- An "axiomatic RS" is an RS where statements allow us to draw conclusions which are implicit in the set of axioms that define the RS.
+I should note that a physical RS can also be limited in scope where statements are limited to describing a particular set of entities or physical interactions.
+If an RS accurately reflects the real world ("RW") we can call it a "real RS". If an RS does not accurately reflect the RW we can call it an "imaginary RS"
+3. True, False and Meaningless Statements
+In the context of a given RS, we can:
+- define a "true statement" as "a sequence of words or symbols which says something which is consistent with the way things are in the specified RS" - 
+
+- define "false statement" as "a sequence of words or symbols which says something which is inconsistent with the way things are in the specified RS"
+- define a "meaningful statement" as "a sequence of words or symbols which says something about the way things are in the specified RS". A meaningful statement will always be either true or false. This does not necessarily imply that at any given time we will know whether the statement is true or false.  
+- define a "meaningless statement" as "a sequence of words or symbols which says something which does not imply anything about the way things are or are not in the specified RS". We could alternatively state this as "a statement is meaningless if it says nothing about its contextual RS."
+- define an "RS statement set" as the set of all true or false statements that can be made referring to the way things are in an RS.
+4. The Meaning of “The Way Things Are” in an RS
+I suppose that we need to drill down a bit on what I mean by "the way things are".
+4.1 In a Physical RS
+In a physical RS this refers to the accurate description of physical entities and of the interactions between them. 
+As the RW is a physical entity, all of the elements that are in it are either physical or can be mapped one-to-one basis to a specific set of physical entities or processes. Thus, for example, if we say "Sarah loves old movies" we are indirectly referring to the physical processes that take place in her brain. In effect we are saying "Sarah's neurological processes lead her to feel and act in a way which would commonly be identified as an appreciation for old films." Note that "the way she feels" also corresponds to specific physical processes in her brain. We could find similar corresponding physical meanings for "commonly identified" and "appreciation".
+Clearly in common usage we make statements including concepts which don't refer directly to their physical counterparts. However, every meaningful concept does have a physical counterpart. Emotions (as we said above) are a manifestation of neurological processes; color and the taste of food are a combination of physical entities and our perception of those entities; and so on. 
+Therefore, every meaningful statement about the RW explicitly or implicitly implies a statement about physical entities or interactions between physical entities in the RW.
+Thus, if our RS is the RW, then a statement which is "consistent with the way things are in the RS" either explicitly or indirectly correctly describes physical entities that exist in the RW or the interactions between those entities.
+4.2 In an axiomatic RS
+In an axiomatic RS "the way things are" is simpler. In this context a statement is "consistent with the way things are in the RS" if it is directly implied by the axioms of the RS, otherwise it is false. (yeah, okay there are loopholes to be filled here - but please read on)
+5. Meaningless Statements Referring to an RS
+Note that statements can refer to entities or interactions that exist in a given RS but still be meaningless, if they apply qualities to those entities which they do not possess. For example, the statement "The square root of elephant is albatross" in an RW context is meaningless because although we understand the concepts of "square root", "elephant", and "albatross", animals do not possess the quality of "square root." 
+
+6. Consistency 
+If we say an RS is internally consistent, we mean (1) every statement we can make about that RS is either true or false. (2) no two true statements about the RS can be contradictory.  
+If our RS is the RW, then the set of all true statements with an RW context (i.e. statements which are not false or meaningless) must be internally consistent, as if they are not this is surely a problem with our definition of "consistency" as the RW itself cannot be inconsistent.
+7. Why Do We Care About Statements?
+So before returning to the Liar Paradox we need to ask a question which is more general, but which in my opinion is fundamentally important:
+"Why do we care about statements?"
+There are two answers to this which I will call respectively the "strong contention" and the "weak contention" (sorry if these names sound a bit "pseudo-philosophical")
+Strong contention:
+We care about statements because either. 
+(a) a statement tells us directly or indirectly, or might possibly tell us, about the existence of entities in the real world; or qualities of those entities; or how entities in the RW interact with each other. 
+or 
+(b) a statement directly or indirectly affects our emotional state 
+Weak contention:
+We care about statements because. 
+(a) a statement tells us directly or indirectly about the existence of entities in the real world or some other referent space; or qualities of those entities; or how those entities interact with each other. 
+or
+(b) a statement directly or indirectly affects our emotional state 
+The point of the strong contention is that although we can certainly care about statements which refer to some type of imaginary self-consistent RS other than the RW, we only care about those statements because they can be used to give us insights into the RW. For example, 'i' is defined as the "square root of minus 1" this is an "imaginary number".  Nowhere in the RW can we actually see a quantity of 'i' things. This is also true of course of negative numbers. Despite the fact that we could argue that these numbers exist only in an imaginary RS and not in the RW, considering these imaginary quantities allows us to build bridges, design electrical circuits and so on. Thus, from this perspective we only care about statements made in the context of an imaginary "physical" or "axiomatic" RS's because they can ultimately be used to develop true statements about the RW.
+Note that in the strong contention I include that we might care about statements in an imaginary RS because "they might possibly tell us" (as opposed to "certainly tell us") something about the RW. For example, it might be worth investigating a mathematical paradigm based on axioms that do not reflect the RW, even if we can see no direct RW implications, on the basis that in the future we might find some RW implications of this axiomatic system.
+The strong contention also says that we might also "care" about a statement not because it tells us anything true or false about the RW, but rather because it can make us happy or sad or can invoke some other emotion. For example, poetry or fiction do not necessarily give us any information about the RW either directly or indirectly, but they can nevertheless give us pleasure - and therefore we "care". 
+Let's consider the weak contention. This implies that as well as statements about the RW we can "care" about statements with the context of an imaginary RS which tells us nothing about the RW, and can never under any conceivable circumstance tell us anything about the RW. (if they could conceivably have implications for the RW then they are covered by the strong contention) Let’s call such an RS a "categorically reality detached RS".  
+So, if they can never tell us anything about the RW, why would we care about such statements? One answer that might be given is that certain mathematical conjectures are worth pursuing for their own sake or can be described as "fascinating" or "beautiful". However, if the only purpose in examining a given RS is intellectual enquiry for its own sake, for the pleasure and interest in doing so - then surely this is also covered by the "strong contention" part (b): that we can care about statements solely because they can affect our emotional state. Thus, we can see the examination of such "categorically reality detached RS's" as equivalent to reading poetry or listening to music.
+For now, let's just assume the "weak contention". That is, we care about statements because they tell us something about a real OR imaginary RS.
+Let's look at examples of some statements and examine why we might "care" about them.
+For example, consider the following statements having an RW context.
+"That road is closed."
+"That dog will not bite"
+"The forecast says it's going to rain tomorrow."
+We care about these statements because knowing whether they are true or false directly affects our understanding of the real world and can change our actions based on that understanding.
+Here are statements about an imaginary RS.
+"Jack then climbed up the Beanstalk."
+"Alice met the Red Queen."
+In this case we care about the statements directly because they give us an element of understanding of the imaginary RSs, respectively of Jack and the Beanstalk and of Alice Through the Looking Glass. Indirectly we care because the understanding of these fictional worlds gives us pleasure.
+
+Here are statements about an axiomatic RS.
+2+2 = 4
+The sin of 30 degrees is .5.
+In this case we care about the statements because we can use them in practical situations, among other things to enumerate objects or in geometric calculations which have many practical uses.
+Let’s look again at the meaningless statement
+"The square root of elephant is albatross" (assuming its context is the RW)
+This statement is meaningless and tells us nothing about the RW. We might still care about it if we find it amusing or irritating. In other words, we might care about it because it directly or indirectly affects our emotions - but not because it tells us anything about its RS.
+
+8. Considering the Liar Paradox
+So back to the Liar Paradox: "This statement is not true". (We will call this the "Liar Paradox Statement" or "LPS")
+We can take a number of perspectives on the RS of this statement.
+(1) We argue that this statement is made in the context of the RW reference space or some other internally consistent physical RS. 
+Above I made the argument that as the RW is a physical entity all statements "about" the RW either directly or indirectly imply corresponding statements about physical entities or the interactions of those entities. Statements with an RW context, which have no implication for physical entities or interactions in the RW are therefore meaningless (as defined above). The LPS, however, does not refer to any physical entities or interactions in the RW. By looping back on itself and therefore having itself as referent, it avoids making any "comment" on the RW. Thus it "says nothing about the way things are in its contextual RS” and in terms of our definition above it is therefore meaningless.
+The same logic applies if this statement is made with the context of some other internally consistent real or imaginary physical RS.
+(2) We can argue that his statement is made in the context of an axiomatic RS. 
+(i) If the set of axioms that define the RS does not include the LPS as an axiom, then the LPS says nothing about entities or interactions within the RS. As with the context of a physical RS, the LPS makes "no comment" on entities or interactions within the RS and is therefore meaningless.
+(ii) If the LPS itself is one of the axioms that define the RS then either
+(a) This axiom is self-contradictory; in which case we can't include it in the axioms to define an internally consistent RS or
+(b) We in some way define the LPS as an axiom and say axiomatically that this statement is not self-contradictory. This is fine as, since the statement refers only to itself, including this as an axiom has no effect on "the way things are" in the RS (i.e. which statements in the context of the RS are true or false). However, the statement in the context of this RS is no longer paradoxical as we have defined it axiomatically not to be so.
+(3) We can argue that the LPS has no RS - as it doesn't refer to anything outside itself.
+We have defined a true statement as one which correctly reflects "the way things are" in its RS, and a false statement which incorrectly describes the way things are in its RS. Thus, if a statement has no RS, it cannot be true or false - those qualities simply do not apply. The LPS or even its counter "This statement is true" are meaningless because the quality of truth or falsity cannot be applied to something that does not have an RS. Thus, these statements are equivalent to "The square root of elephant is albatross". This statement is meaningless because animals do not have the quality of "square root".  Similarly, the LPS and its counter statement are meaningless because they have no RS, and therefore the subject of these statements "this statement", does not have the quality of truth or falsity.
+In summary, if we assume that the LPS has a physical RS, or we say that the LPS has no RS, then the LPS is meaningless. If we have a self-consistent axiomatic RS which does not include the LPS as an axiom, then once again the LPS is meaningless. If we include the LPS as one of the axioms of an internally consistent axiomatic RS, then we need to state axiomatically that the LPS is not paradoxical and thus the paradox goes away. So, no matter how we look at this, the “problem of LPS” goes away, as is either meaningless or unparadoxical.
+
+9. Non Self-Referential Versions of the LP
+In the course of researching this I have found other "versions" of the LP which have avoided direct self-reference. They can however be easily solved in exactly the same way as the LP - I will explain:
+As I have looked through more of the literature, I have found alternative formulations of increasing obscurity and complexity but all equally meaningless (IMHO) and increasing my frustration with every new twist of un-necessary complexity and apparent accompanying self-righteousness (ok I will stop ranting now)
+One example which I found which forms the basis of many different "versions" of the LP is the following:
+Agnes says: Bert's statement is true.
+Bert says: Agnes' statement is false.
+(Call this the "Agnes/Bert LP")
+The paradox here is clear: if Agnes is speaking the true then she must be lying. If she is lying, she must be speaking the truth. It also seems at first glance that these are not self-referential - each of them is talking about something in the world - the other one's statement. 
+Another similar example is to consider a book where the first sentence on page 102 says "the first sentence on page 102 is false". (call this the "first sentence LP")
+The solution of these and many other "versions" of the LP is simple.
+I hate to add additional complexity, but I have realized (looking at increasingly ridiculous and complex "versions") that what we really need to talk about is "assertions" rather than statements. By an "assertion" - I mean what is actually said by one or more statements.
+Often to make an assertion we will need only one statement. e.g. "this is an orange" is a statement which makes an assertion. However, the statement "first sentence on the next page is false" is not complete in itself. In order to know what assertion is being made we need to also know the text of that sentence is (the first sentence on the next page). Depending on what it is the "assertion" could be true, false, or meaningless. 
+e.g. If the first sentence on the next page is:
+“This book is on earth” (true) - the assertion is therefore false.
+“This book is on Mars” (false) - the assertion is therefore true.
+“The square root of elephant is albatross” (meaningless) - the assertion is therefore false.
+Let’s first consider the Agnes/Bert LP. In this case both Agnes' and Bert's statements are incomplete - thus they ARE NOT SAYING ANYTHING AT ALL IN THEMSELVES. In each case to know what they are "asserting" we need to know the content of the other statement. Once we know this the "assertion" of each becomes clear. 
+For Agnes: Once we know Bert's statement, we understand that Agnes's assertion (the implication of her statement) is "I am lying" - or if you prefer Agnes is implying and NO MORE THAN THIS that in making her statement, she is telling a lie.
+The same thing applies for Bert.
+But now we are back to the simple LP. Saying "This statement is a lie" is meaningless because nothing is referred to by the statement. The assertion is not lying about Agnes' height, her date of birth, the atomic weight of Hydrogen, how to bake bread, the price of gas, the solution of an equation or anything else - the assertion has no RS therefore does not have the quality of truth and falsity and is therefore meaningless.
+The "first sentence LP" has a similar solution. The statement "the first sentence on page 102 is false" is incomplete as its truth or falsity depends on another statement - the first sentence on page 102. As it is incomplete it does not make an assertion. However, once we know that the first sentence on page 102 is the sentence itself, then we understand that the assertion being made is "this sentence is false" - and of course the same thing applies the assertion has no RP and is therefore meaningless.
+As I say I hate to add complexity, but we should probably add a new type of statement. Previously we had true, false and meaningless statements. We should probably add another category of statements as "incomplete”. Where a statement “S1” is classified as "incomplete" where it refers to one or more additional "referenced statements" (S2, S3, etc.) and we cannot determine what assertion is being made by S1, until we know the assertions being made by the "referenced statements" of S1. In fact, it is possible that the referenced statements will themselves be incomplete and in order to determine the assertion of S1 is may be necessary to follow an entire chain of reference for each of the statements referenced by it in order to determine the assertions made by each of those statements.  
+9. What's The Point?
+So why do I care about this in the first place? When I initially stumbled across Godel's incompleteness theorem at undergrad - I came to the same conclusion that is that: "Although it may be possible to make meaningless statements using mathematical language, Godel does not show us that mathematics will ever draw false conclusions or that 'logic is incomplete' - it just shows us that we can use mathematics to speak gibberish"
+(I should emphasize that it is at least 10 years since the last time I looked at Godel - so I am way rusty)
+This is hardly surprising. If mathematics is a language (which I am sure would be widely disputed) then the ability to talk gibberish should not be surprising. I can say in grammatically correct form "The smelly equation was louder than yesterday" - which is completely meaningless. Why should meaningless statements not also be possible using mathematical symbols? If they are possible why does anyone think this puts "the foundations of mathematics" in question, any more than my nonsense statement undermines the validity of the English language.
+
+I was amazed to see that people seem to draw real world implications from this. Things such as "Science is incomplete and there are truths that we can never know". I have even seen the suggestion that Godel's proof shows that there are computer algorithms which can never be solved, or that maybe Godel has implications for trying to discover algorithms to predict primes.
+I have probably got wrong the precise implications that people have drawn from the existence of these "paradoxes" - and this would be the next area of research. But the point is that my impression is that people DO think that they have genuine implications - and I don't. How can they? These paradoxes are all meaningless statements which say nothing about anything. How could it be possible that a meaningless statement which refers neither to a real or imagined RS can tell us anything at all about any RS? 
+
+Thus, for example people have developed alternate set theories to "get around the problems" of standard set theory. In my opinion this is completely unnecessary. The existence of Russel's paradox does NOT show that using standard set theory will ever lead to drawing an incorrect conclusion about reality or about any other RS, nor does it show that standard set theory prevents us from "missing out" on any true conclusions about an RS. All it shows us is that we can talk gibberish using standard set theory. I don't know for sure, but I would imagine that whatever alternative set theories have been developed will still allow us to "talk gibberish" in other ways.
+
+Sorry if this has turned into a bit of a stream of consciousness rant - but in summary my point is people think this stuff is "wow amazing" (the 1000-page book "Godel Escher Bach" for example) and has astounding implications - but it just doesn't. In fact, it implies nothing at all.
+
+
