@@ -1,0 +1,69 @@
+Further Discussion of The Liar Paradox : Is it “Magical” or Just a “Magic Trick”
+
+What I want to investigate below is to again focus on the Liar Paradox and to ask you the following: " this is a "magic-trick" rather than being "magical"? (I will explain what I mean by these terms below). 
+Next Steps
+If the answer is "Yes" then the next steps are:
+1. figure out how to use the ideas we have discussed to show that this is just a "magic trick"
+2. figure out the best way to show that Russel's paradox is equivalent to the LP.
+3. research implications that have been drawn from the RP and show that the steps taken - such as the development of alternate set theories - were unnecessary.
+If the answer is "No" then we should continue to debate in the hope that we can come to consensus - either that you can show me the error of my ways or I can make the argument that "The LP isn’t really paradoxical at all" in a way that you agree with.
+Trying to Avoid Unnecessary Complexity
+So stepping back once more:
+What I am trying to say seems to me very simple. This is: "because the LPS doesn't refer to anything, the concepts of truth and falsity don't really apply so the LPS is not really paradoxical.".
+Developing "philosophical concepts" such as the "referent space" and all of the accompanying pieces that go along with this definition seems to me to be necessary in order to make this argument. However, I find this necessity regrettable as it makes what I see as a very simple contention more involved and harder to understand.
+I confess with some embarrassment that it TOOK ME 10 DAYS to read and fully understand the approximately 10 pages of Chapter 10 of Russell's "Principals of Mathematics" where he explains the paradox.
+Russell himself said of Hegel basically "people only take it seriously because they don't understand it" (quote: "Hegel’s philosophy is so odd that one would not have expected him to be able to get sane men to accept it, but he did. He set it out with so much obscurity that people thought it must be profound"). Unfortunately, I think the same is true to a certain extent of at least this part of Russell's own work. Maybe others do not find it so, but I found it cryptic enough that once one does grasp exactly what he means, once one clearly sees the trees it is very easy to lose track of the clear vision of the wood. More specifically I am saying that once one follows his intricate and valid train of logic it is easy to lose sight of the fact that there are literally no implications from the result that he derives (at least that is what I am claiming - but again I am jumping ahead so let's not discuss this here)
+I guess what I am saying is that I regret having to dive into obscure rabbit holes of explanation when I am aiming to create clarity - but I do nevertheless think it is necessary so as to avoid ambiguity.
+ 
+Magical or Just a Magic-Trick? 
+So is the LP a "magic-trick" or is it "magical".
+Obviously I don't believe in "magic", so what I mean by "magical" is something that, even when we understand it, forces us to change our perception of how we commonly understand our reality. What I mean by a "magic-trick" is something that once we understand how it works doesn't need us to change our fundamental understanding of the way things work. Clearly these are not hard and fast definitions and there can be overlap but hopefully they are clear enough to express what I mean (without diving any deeper into this particular rabbit hole to try to make a clearer distinction)
+Examples:
+Magic Tricks: (things that don't require us to change our understanding of reality when fully explained)
+A conjurer taking a rabbit out of a hat appears mysterious but is easy to understand once we know that the rabbit was hidden in a bag under the table.
+The same applies to all card tricks and stage illusions.
+We could say that this also applies to new technologies. The first time I saw an ad for an iPhone I was amazed, but it didn't require me to rethink the workings of reality.
+Magical: (things that even when fully explained require us to change our understanding of reality)
+The speed of light is the same relative to any observer regardless of their velocity relative to the light source
+Quantum mechanical effects.
+An alien spacecraft landing on earth, could also fall under this classification.
+Clearly these are not hard and fast definitions as something that would be a "magic-trick" to one person could be "magical" to another. If members of an isolated Amazonian tribe were to encounter much of modern technology this would force them to change their understanding of reality and thus these things would be "magical" to them. So once again the "magical/magic-trick" distinction requires context. So, I guess what I am asking is in the context of our everyday understanding of reality and logic is the LPS "magical" or a "magic-trick".
+Paradoxes:
+Here is the dictionary definition: "a seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true." and "a situation, person, or thing that combines contradictory features or qualities."
+In philosophy or mathematics why should we be interested in paradoxes? I would answer that an "apparent paradox" is only interesting if it forces us to change our understanding of reality or of logical deduction. I could add that "...if it forces us to change our understanding of reality or of logical deduction in an interesting way".
+Example of paradox (using definition as something seemingly self-contradictory) which forces us to change our understanding in an "interesting" or "un-interesting" way.
+Question: "But I thought you said your name was Fred now you say its Max, how can it be both at the same time?"
+Solution which forces us to change our understanding of reality in an un-interesting way.
+"You were talking to my twin brother. He's Fred, I'm Max".
+Solution which forces us to change our understanding of reality in an interesting way.
+"I'm a humanoid extra terrestrial being with two brains which alternate in taking control of my body. One brain calls itself Fred and the other Max"
+Back to the LPS
+What I am saying is that its only worth caring about the LPS is if it is "magical". That is, it is interesting if considering this statement forces us to reassess reality or logic or anything else in a way that is interesting 
+If so, it would imply that even the very fact that we can speak or write the words of the LPS would force us to change our understanding of reality. Why do I claim this?
+Let's consider that if we see a statement we have no problem with our understanding of reality if the statement is (a) true; (b) false; (c) either true or false but we don't know which; or (d) meaningless. 
+examples:
+True: "We are on planet earth"
+False: "We are on planet Mars"
+True or false but we don't know which: "It will rain tomorrow in New York City"
+Meaningless: "The square root of elephant is albatross"
+
+The fact that we can make these statements or more generally statements in these four categories is not surprising. However, if we can make a statement which is none of these: a statement that is not true, it not false, and is not meaningless - then yes, that is initially surprising. 
+If we can make meaningful statements which are neither true nor false it implies that reality itself is paradoxical. If we can make such statements, it implies either
+(a) that we can neither say of some entity that it exists, nor can we say it does not exist - and nor can we say it exists or it does not exist, and we just don't yet know which. 
+or 
+(b) that we can neither say of some interaction between entities that "it works that way" nor can we say "it does not work that way" - and nor can we say it either works that way or it does not, and we just don't yet know which.
+or
+(c) both (a) and (b)
+Note that if we can make such statements then, if our reasoning is independent of the referent space that we chose, then the possibility of such "not true not false" entities and interactions must exist in reality as well as in some imaginary referent space. This would be a stunning conclusion as we would have to accept the potential existence of things or processes which neither exist nor do not exist. This would indeed, in my mind at least, force us to change our understanding of reality and in my terms would classify as "magical".
+So, in these terms is the LPS "magical"? I would argue not. It is simply a "magic trick" resulting from an inappropriate use of language. At first sight the statement "this statement is not true" seems paradoxical - if it’s true it’s not true, if it’s not true its true and so on. However, there is indeed a rabbit hidden in a bag under the table. Because the statement just refers to itself and not to an external RS the words truth and falsity have no meaning. Trying to apply these adjectives to "this statement" is just like trying to apply the quality of "square root" to an elephant. An elephant does not have the quality of "square root" and "this statement" does not have the quality of truth and falsity, because it’s not talking about anything. Thus, what seems mysterious is easily explained without changing our understanding of the qualities of truth, falsity, logic or anything else. It's just a cheap magic trick.
+
+In summary I am saying
+(1) The only reason to care about a paradox such as the LP or the RP is if the existence of such paradoxes (or apparent paradoxes) in some way forces us to reassess our understanding of reality, and/or the concepts of truth, falsity, or logic.
+(2) If we can easily "solve" the paradox without change our understanding of these fundamentals the apparent paradox is not interesting, as it has nothing to tell us. It may be amusing as a party trick or an intellectual curiosity or puzzle - but no more than that. Effectively its a "magic-trick" rather than "magical"
+(3) The LPS is easily explained without changing our understanding. Thus, the LPS itself has nothing to tell us and is no more than a "magic-trick"
+
+
+So here are my questions.
+(1) Do you agree with my argument that the fact that we can make the LP statement does not require us to change our understanding of logic and reality? I.e. do you agree that in my terms the LPS is just a "magic trick"?.
+(2) If the answer to (1) is "no", i.e. you do not agree - please don't pull your punches. I repeat I am VERY grateful for your engagement in this discussion. Thus, if you do disagree, please explain to me as clearly as you can what you think I am missing or misunderstanding.
+(3) Of course, you might think that framing the discussion in this way as "magical" vs "magic-trick" completely misses the point - in which case please let me know.
