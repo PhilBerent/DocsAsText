@@ -1,0 +1,166 @@
+The Total Realizable Value of Bitcoins is Zero
+Phil Berent
+
+·
+Aug 6, 2021
+
+
+
+
+
+The total net realizable value of all Bitcoin positions is zero. Actually, this is true of all cryptocurrencies that are not backed by assets which have some value in their own right. This makes Bitcoins fundamentally different from all other asset classes including, stocks, bonds, currencies and gold.
+
+“Really??!!”, I hear the outraged cries, the current capitalization of Bitcoins is $744 Billion (As of writing on August 2nd, 2021). How can realizable value possibly be zero?
+
+Let’s define two terms. “Total realized cash value to date” by this I mean the total net cash value that has until now been taken out of the market, that is: dollars out less dollars in. By “Total potential realized cash value” I mean the maximum net total amount of dollars that can ever be taken out of the market. Both these numbers are zero. In other words, if one considers the cash profits and losses of all participants, no money ever has been, or ever can be made from Bitcoins.
+
+There will be two reactions to what I’ve written above. The first will be “that’s bloody obvious” (with which, by the way, I agree). To those with this answer I respond: “That may be so, but this fact doesn’t seem to be generally acknowledged or openly considered by current investors”. I will discuss this in more detail below.
+
+The second reaction might be “Huh? How can that be?”
+
+To those that doubt my assertion, I ask you to consider the following. Let’s say I create 1,000 units of a new cryptocurrency. If I sell all of these units I will make a cash profit. However this profit is equal to the amount of cash paid by the buyer. Therefore, in cash terms, my profit is matched by the buyers loss.
+
+If this new holder then sells on to someone else, then they get cash. However, once again any cash they receive is matched by the amount paid new purchaser. And so on. At each sale, whether the price goes up or down, the seller receives cash and the buyer pays exactly the same amount of cash. Thus, on a net basis no cash ever comes in or goes out of the market, and the “overall cash profit” of all market participants can never be anything but zero. To those that still doubt this, I have included an appendix with a numerical example.
+
+I am stating the obvious here. Every sale is matched by a buy, and therefore money in has to equal money out and this can never change. The only way that someone ends up “cash positive” through trading cryptos, is if other market participants are correspondingly “cash negative”.
+
+So what does this mean for you and me as Bitcoin investors? (I have been, and still am, an active market participant). It means that there is no bright future where “Bitcoin holders do well”. As an investor you may indeed make money. However, if you do, your profit will be matched by someone else’s loss. You might also suffer losses. In this case, I doubt that it will console you to know that you have contributed to someone else’s gain.
+
+Okay, so it’s a zero sum game. Isn’t that the same as other investments? I would argue no. In many ways cryptos are an asset the price of which is uniquely determined by speculative demand. Before considering the long term outlook for crypto prices, it will be helpful to see why the picture is so different of that of other asset classes. Essentially, whereas other asset classes have some underlying intrinsic financial value, cryptocurrencies have very little intrinsic value. Its true that some small portion of the balances are held as transaction balances, but almost all of the “value” of owning cryptocurrencies comes only from the expectation that the price will rise
+
+Below, I will consider how investment in cryptos compares to holding: stocks; currencies; industrially used commodities such as copper; and finally gold.
+
+Where Does Value Come From?
+
+Broadly speaking the value of things stems from a combination of four factors which I will call: “Financial Value”, “Use Value”, “Speculative Value” and “Exchange Value”.
+
+- By Financial Value I mean the part of the market price of an asset stemming from an expected future stream of cash flows, but not including any anticipated gains from price appreciation.
+
+- By Use Value I mean the part of the price of an object that stems from the fact that it fulfills some need. For consumer goods, Use Value is the benefit that the buyer gets from ownership. A loaf of bread satisfies hunger, a car provides transportation, and so on.
+For goods purchased by businesses, the Use Value is the benefit that the company gets from using the good as part of its business operations. Raw materials are and parts are used as inputs in the production process; office furniture and equipment are used in support functions; and so on.
+
+- By Speculative Value, I mean the part of the price of an asset that stems solely from the belief that the asset’s price will increase and that holders will be able to resell at a profit. I will also define Speculative Demand for an asset as the portion over overall demand which arises from the expectation of future price appreciation.
+
+- By Exchange Value I mean the part of the price of an asset that stems from the fact that it can be exchanged for something which has Financial Value, Use Value or Speculative Value.
+
+These are not intended as precise definitions, rather the aim is to create a broad intuition as to the sources of value. Some things could be categorized in different ways. For example, a train ticket could be seen as having Use Value, because it allows one to travel, or one could say that it has Exchange Value because it can be exchanged for transportation. Things may also have more than one source of value. People buy property so that they have a place to live, but sometimes also because they believe that it is a “good investment”. Thus, the price of property may be determined both by the subjective assessment of it Use Value and of its Speculative Value.
+
+Stocks
+
+In terms of the definitions above, stocks have Financial Value.
+
+Investors in stocks own part of the issuing company. Companies produce goods and services an reap financial rewards from doing so. Some of these rewards are realized as company income, and some are reflected in an increase in the value of the company’s assets. Stockholders benefit from these respectively through the payment of dividends and an increase in the stock price. If the company does well, all stockholders can benefit.
+
+At first sight it might seem that, on a cash basis, gains and losses on stock trades are a zero-sum game, just like cryptos. After all, if I sell my stock and take cash out of the market, someone else must be buying from me and putting in the same amount of cash that I take out.
+
+The difference is that with cryptos the buyer must resell in order to redeem their investment. A stockholder, however, gains value through the stream of dividends that they receive, even if they hold the stock in perpetuity. In fact, the most commonly accepted model of stock pricing (the “Dividend Discount Model”) values a stock solely based on its expected future stream of dividend payments.
+
+Currencies
+
+Currencies have Exchange Value because they can be exchanged for goods and service. It’s true that short term currency trading is a zero-sum game. If one side of a trade wins the other side loses. However, long term holders of currency generally hold interest bearing instruments in the form of bonds or loans. Bonds and loans pay interest and therefore in terms of the definitions above have Financial Value. Companies borrow money which they use for operations or investment, with the objective of increasing profits and/or the value of the company’s assets. In this case, as with stocks, the value that is paid to investors (the interest) comes from an external source (the company’s expected increase in profitability or asset values) rather than just from the expected resale value of the asset. I don’t want to get into the thorny topic of “where the interest comes from” for government debt. However, as long as long as a country does not default, a holder of government bonds also benefits from the payment of interest, and again doesn’t have to rely on an increase in the price of their assets to make a profit.
+
+Cryptocurrencies are often thought of as being equivalent to “fiat” currencies — that is currencies which are not backed by an asset such as gold. There is one aspect, however, in which they are very different. Cryptocurrencies have no underlying intrinsic value other than a small level of demand for transaction balances (discussed below). Although most national currencies are not explicitly backed by an asset, in all but times of government collapse, national fiat currencies do have intrinsic value. Why? Simply because wages and prices are “sticky” and don’t change by large amounts on a moment-to-moment basis. If, for example, the price of the Euro fell to 1 cent (from its current level of $1.18), even if people believed that there were further declines to come, there would still be a greatly increased demand for Euros. This is because you or I could go to our favorite part of Italy, buy a fancy car, rent a villa, employ 5 people as staff to minister to our every need for a year, and still probably have change from $10,000. Similarly, corporations could move their production to Europe and buy their materials from there, and so on.
+
+Thus, even a fiat currency has an intrinsic value because it represents the right to purchase a specific amount of goods and services. Just as with stocks and bonds, the asset has underlying value which is independent of expectations of its future price level. With stocks and bonds, the intrinsic value is the expected future stream of payments that holders will receive. With fiat currencies the intrinsic value is the value of goods and services for which the currency can be exchanged.
+
+There is no such intrinsic value for cryptocurrencies. This is because, as far as I know, nothing is priced with a specific BTC or other cryptocurrency price. Prices are always specified in U.S. Dollars (or some other hard currency) and the price in BTC is determined using the $/BTC exchange rate at the time of the transaction. This means that there is no intrinsic purchase value in holding a Bitcoin. It does not entitle you to a specific amount of goods and services. Unlike in the Euro example above, a dramatic fall in the price of BTC (say from its current level of about $32,000 per BTC to $10 per BTC), would have almost no effect on the U.S dollar amount of BTC required for transactions. Whether the BTC is at $32,000 or $10 the Tesla Roadster will still cost you $200,000. Holding a specific amount of Bitcoins does not entitle you to obtain a specific amount of Teslas, or anything else.
+
+Industrially Used Commodities. E.g. Copper
+
+Industrial commodities have Use Value.
+
+Investors can participate indirectly in the market for industrial commodities, such as copper, through the purchase or sale of commodity futures. The buyer of a futures contract effectively owns a quantity of the underlying commodity. In theory, a buyer can allow the contract to expire and receive delivery of specified amount of the commodity. For example, on expiration the buyer of a CME copper contract will receive delivery of 25,000 pounds of copper of a specified quality.
+
+Copper is used mainly for wiring. Prices will therefore tend to rise in a construction boom. An investor might therefore buy copper (or copper futures) if they expect economic activity to increase.
+
+As with cryptocurrencies, those who participate in commodity markets purely as investors (rather than as end users), are doing so based solely on the belief that the price will rise. The difference is that, in the case of commodities, there is an underlying Use Value. This is the financial value of copper to companies that use it as a raw material input. This is Use Value will effectively place an upper and lower bound on price movements.
+
+Gold
+
+It is often argued that cryptocurrencies are the “new gold” and are therefore a rational investment as a store of value or a hedge against inflation. Those making this argument claim that gold only has value, because everyone believes that it does, and because it is scarce. There is no reason therefore, that in a digital world, a digital asset with a limited supply such as Bitcoins should not be seen as an equivalent investment.
+
+This misses the point that gold does have Use Value. There are several industrial applications, but these make up a relatively small proportion of total demand. The main Use Value of gold is the subjective consensus that gold is beautiful. This is reflected in the fact that 46.3% of the world’s gold exists in the form of jewelry, far exceeding the amounts held for private investment or in national reserves (Gold.org Feb 2021 estimate).
+
+Gold has been valued for its beauty in diverse and geographically separate cultures, from Ancient Egypt to Pre-Colombian Mexico and Peru. Just because “beauty” is a subjective quality, doesn’t mean that the Use Value is any less real. After all, the demand for fancy cars, nice clothes and spacious apartments are all based on human desires, and therefore ultimately equally subjective.
+
+The value of gold arises because by consensus it is beautiful, but also because it is scarce. Flowers are also agreed to be beautiful but are abundant, and therefore have a relatively low price. The metal osmium is 1,000 times rarer than gold, but it is has few industrial uses, and is not considered decorative and so has a much lower price (University of Melbourne, report 2017).
+
+Why Bitcoins are Different
+
+Bitcoins are different because almost all of their market price comes from Speculative Value.
+
+Bitcoins do have some Use Value. The Use Value of Bitcoins arises mainly from the fact that they can be used for some transactions which cannot be made with hard currency. If a purchase can also be made using hard currency there is no real Use Value of transacting with Bitcoins.
+
+A large proportion of the transactions for which buyers really need Bitcoins involve the purchase of drugs, weapons, or other illicit items on the dark web. Ransomware hackers also need to use Bitcoins so that they can be paid easily by their victims and can reduce the probability of being traced.
+
+There are also legitimate and lawful uses of cryptocurrencies, some are listed here (bravenewcoin.com).
+
+However, the important point is that the vast majority of the $744 Billion worth of Bitcoins is held by individuals and institutions that are not buying and selling drugs or weapons or engaging in ransomware attacks. The chances are that if you are reading this, and if you hold Bitcoins, you are holding them as an investment — rather than for their Use Value in transactions. As Bitcoins pay no interest[1], you are holding them, like almost everyone else, based on the belief that the price will rise.
+
+In other words, almost all of the demand for Bitcoins comes from Speculative Demand. This means that the current price is far above that which is justified by Use Value alone.
+
+The Long Term Outlook For Bitcoins
+
+The prices of stocks, commodities and currencies can also be artificially inflated by Speculative Demand. However, in these cases the speculation is driven by the expectation that the underlying intrinsic value will “catch up” to the current market valuation. For example, a stock may trade at a level above that justified by the current dividends, if people believe that the company will grow or develop new product lines. Similarly, a commodity may trade at a high price if it is believed that will be a future increase in demand.
+
+It is very unlikely that the Use Value of Bitcoins will rise to meet the current market price. This would require that at least the current capital value of $744 Billion is held in transaction balances or for reasons other than the hope of price appreciation. Given that no prices are currently denominated in Bitcoins, and that the $/BTC price itself is so volatile, it seems to me that it this is very unlikely to occur.
+
+This means that most Speculative Demand for Bitcoins is not driven by an expected increase in Use Value; rather it stems from the belief that yet more speculators will come into the market. Much excited Bitcoin “chatter” recently has centered around the expectation that institutional investors and hedge funds will increase their Bitcoin holdings. In other words, Speculative Demand for Bitcoins is driven by the expectation of increased Speculative Demand.
+
+This is a problem. Investors are buying because they believe that more investors will buy. This can’t continue indefinitely. At a certain point investment demand will be satiated. At that point the price will stop rising. The market does not have an “equilibrium price” where it will just happily sit when everyone has bought the number of Bitcoins that they require. This is because if the price is perceived to be “stable” — (i.e. that is to have stopped rising) the participants, who are only in the market because they were looking for further rises, will now sell.
+
+This is a cycle that we have already seen play out several times.
+
+It is of course possible that it may take several years for Speculative Demand to be fully satiated.
+
+I want to emphasize again how different this picture is from other assets. Stocks, bonds, currencies and commodities all have an intrinsic value based on something other than the expectation of future price rises. Stocks and bonds make payments to investors; currencies can be exchanged for a specific and relatively stable amounts of goods and services and commodities have some Use Value to companies or individuals. Almost all of the value of Bitcoins comes only from the expectation of further price rises.
+
+Investing In Bitcoins.
+
+Net net (as I showed at the outset) no money is made from Bitcoins. If someone profits on a cash basis, someone else has lost. The only reason to hold Bitcoins, therefore, is because you think that you are smarter than other investors, and can get out before they do.
+
+In the last five years we have seen the price of Bitcoins go from 600 to 19,000 down to 3,300, back up to 63,000 and now down to 38,000. With this volatility, I don’t see how anyone can argue that Bitcoins have any real use as a “store of value” or a “hedge against inflation” (or a hedge against anything else).
+
+Admit it: if you are holding Bitcoins, it’s because you think the price will rise.
+
+Hedge funds are used to taking risk and competing against other market participants. Bitcoins and other cryptos may therefore be an appropriate investment.
+
+However, other institutional investors including Banks, Insurance companies, corporate treasuries, and even pension funds have started to put part of their portfolios in cryptos. I don’t see how it can really be appropriate for these institutions (particularly pension funds) to participate in what is essentially a game of “financial musical chairs”.
+
+For individual investors, I’m not saying “don’t invest”, I’m just saying that if you do, be aware of the game that you are playing.
+
+Appendix: Numeric Example Showing Zero Net Cash Profits or Losses
+
+Let’s say that I launch a new hypothetical cryptocurrency (lets call it BTCh).
+
+Step1: I initially create 1,000 units of BTCh, and hold all of them.
+
+Step 2: Let’s assume that the market hears about this new crypto and it generates some interest. The market price starts out at $10 per unit.
+
+Step 3: If I sell all of my cryptos to a single buyer (lets call them ‘First Buyer”), I will receive a total of $10,000 (=1,000 x 10). As I paid nothing for the units, the transaction gives me a cash profit of $10,000. However, the buyer has a cash outflow of the same amount. Therefore, just looking at the flow of dollars, I am up by $10,000 and the First Buyer is down by $10,000. Clearly there has been no net cash taken out of the market.
+
+Step 4: The market gets excited about the new crypto and the price rises to $300. The First Buyer sells his cryptos to a new buyer, “Second Buyer”, at this price. The total value of the sale is $300,000. First Buyer has therefore made a profit of $290,000 ($300,000 less the $10,000 that he paid). Second buyer has a cash outflow of $300,000.
+
+Once again the “total realized cash value” is zero.
+
+- I made an origination profit of $10,000-
+
+- First Buyer has a cash profit of $290,000 ($300,000 sale price less $10,000 buy price)
+
+- The Second Buyer is down the $300,000 purchase price.
+
+This adds to a total of zero. ($10,000 + $290,000 — $300,000 = 0)
+
+Step 5: As a final step in this example, lets assume that the market price falls back to $100 and that Second Buyer sells all of their coins to a new buyer, Third Buyer. If we follow the numbers, illustrated in the table below, we will see that once again the net cash outflow is zero.
+
+[1] It is possible on some exchanges to earn interest by lending Bitcoins. These in turn are borrowed , and the interest is paid, by those wishing to take short positions. The point is that that unlike bonds, where the interest is intrinsic to the instrument itself, here interest is paid not by the Bitcoin, but by other market participants. Once again it is a zero sum game, with interest received by one participant, being paid by another.
+
+Cryptocurrency
+Crypto
+Bitcoin
+
+
+
+
+Phil Berent
+Written by Phil Berent

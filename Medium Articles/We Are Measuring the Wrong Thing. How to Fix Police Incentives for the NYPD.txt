@@ -1,0 +1,108 @@
+
+
+We Are Measuring the Wrong Thing. How to Fix Police Incentives for the NYPD
+Phil Berent
+·
+Aug 24, 2020
+
+
+
+
+
+
+The incentive structure in the NYPD is a problem.
+
+Officers are pressured to achieve quotas of arrests and summonses. Those who resist or do not comply are penalized with the worst work assignments and poor performance reviews.
+
+I propose a change to the incentive structure so that the motivations of police officers would become more closely aligned with the objectives of the communities that they are assigned to protect. I believe that changing incentives in this way would allow officers to act with more independence; would focus policing efforts on issues that truly matter; and would improve police community relations.
+
+The Problem
+
+In its series of articles “The NYPD Tapes” in 2010 the Village Voice, reported on covertly made recordings in the 81st precinct where officers on numerous occasions were pushed to make arrests for the sake of “the numbers”. Instructions included:
+
+“If they’re on a corner, make ’em move. If they don’t want to move, lock ’em up. Done deal. You can always articulate [a charge] later.”
+
+“I’m not saying make it up, but you can always articulate robbery, burglary, whatever the case may be. . . .It’s still a number. It keeps the hounds off.”
+
+In 2015 the NYPD published “The Way Forward at The NYPD”. The document announced a greater focus on Community Policing and a new evaluation system which placed less emphasis on “quantitative metrics”.
+
+Despite these stated intentions, not much has changed. The extent to which quotas still pervade the force was revealed in a New York Times article in December 2019 and in the shocking 2018 Stephen Maing documentary “Crime and Punishment”.
+
+So Why Does this Happen?
+
+The NYPD focuses on crime statistics reported on its CompStat data system of so called “Index Crime” which includes: Murder, Rape, Robbery, Felony Assault, Burglary, Grand Larceny & Grand Larceny Auto.
+
+Figures are updated on a daily basis, and meetings are held each week at Police Headquarters where precinct commanders are rigorously questioned (most first person reports use the word “grilled”) by senior NYPD officers about the stats in their jurisdiction — and pressured to “keep numbers down”.
+
+Unfortunately focus on Compstat numbers creates an incentive at all levels of the NYPD to reduce reported numbers, rather than the actual levels of Index Crime. In their 2012 book “The Crime Numbers Game” Eterno and Silverman (both retired NYPD officers) found numerous cases where:
+
+· Police stations refused to accept crime reports because it would hurt their numbers. In other cases victims were told to make their report at a different precinct.
+
+· Crimes were downgraded so that they would not be included in the Index Crimes category. Rape was “downgraded” to “forcible touching”, felony assault was downgraded to misdemeanor assault, burglary was downgraded to criminal trespass, and so on.
+
+· Officers were discouraged from focusing on problems of shoplifting, vandalism, minor sexual assaults or anything else which was not scored by CompStat.
+
+The short term focus also means that there is little incentive for the police to devote resources to working with communities to develop longer term strategies for crime reduction.
+
+In many areas crime is endemic, and it is unrealistic to expect that a precinct can continue to report lower CompStat crime numbers each week. This means that the only way for precinct captains to show that they are “doing something” is by focusing on the numbers of arrests and summonses. If CompStat shows an uptick in any type of crime, precinct commanders are expected to “respond”. Often the response results in arrests which have no real connection with the underlying problem. In his 2018 interview with the New Yorker NYPD Sergeant Edwin Raymond (one of the so-called NYPD 12) explained:
+
+“Where it becomes problematic is what is excepted as a response [to CompStat numbers]. In transit for instance say we are getting …something serious like a robbery or grand larceny…So say New Lots … is getting a lot of phone snatchers at 1 am… as long as you increase arrests at New Lots be it at 3 pm, 4 pm, school kids who double up through the turnstile….you wont have to answer for the 1 am robbery”.
+
+In summary the current approach results in strong incentives at all levels of the NYPD to under-report or downgrade serious crime so as to keep “crime numbers down”, and to demonstrate activity by policing aggressively so as to maximize the numbers of arrests and summonses.
+
+The Effects
+
+This, approach creates the following problems (among others):
+
+· The real issues of crime in each community are not addressed effectively.
+
+· There is overly aggressive policing of minority neighborhoods.
+
+· Poor relations between the police and the community.
+
+I believe the approach also actually exacerbates racism within the police force. Of course, some officers start out with racist views. However the current approach turns members of minority communities into “the enemy”, and as in wartime conflicts, the enemy comes to be seen as less than human.
+
+Finally, and most tragically, the enthusiasm, intelligence, understanding of each officer of their “patch”, is completely wasted, as they are forced to focus solely on “getting the numbers”. Eterno and Silverman put it this way:
+
+“[when they start out].. Most police officers are dedicated and filled with altruistic ideas of doing good…CompStat robs them of their idealistic notions. They become sheep relegated to the hopeless routine of getting and watching numbers. They are no longer problem solvers, but automatons dedicated to making sure the figures look good. “
+
+How To Fix This
+
+I would argue that the real problem is that everyone from the Mayor on downward is looking at the wrong set of numbers. I would argue that the “True Objectives” of policing should be (something like)
+
+(1) Protect and serve the community
+
+(2) Make people feel safe from crime
+
+(3) Maintain positive productive relationships with the community
+
+Unfortunately that is NOT what is measured. CompStat figures and arrest numbers (which are measured) are only a “proxy” measure for these True Objectives. In systems driven by proxy numeric targets, employees will direct all of their energies to achieving a numeric “score” rather than on the True Objectives. This results in all of the problems and distortions discussed above.
+
+What if, instead of this, the top brass focused on a number showing how well the True Objectives (making people feel safe from crime) were met? Actually, this would be relatively easy to do. A simple survey of 4 or 5 questions, to be answered on a smartphone, could be given to a couple of hundred anonymous individuals in each precinct each month asking (for example)
+
+1. Have you or anyone in your family been a victim of a minor crime this month?
+
+2. Have you or anyone in your family been a victim of a major crime this month?
+
+3. On a scale of 1–10 how bad do you feel crime is in your community?
+
+4. On a scale of 1–10 how safe do you feel in your community?
+
+5. On a scale of 1–10 how good do you feel are relations between the community and the police?
+
+Precinct captains and officers could then be assessed PRIMARILY on the basis of these scores and how they change over time. I’m not suggesting throwing out CompStat data. If people feel unsafe in a given area you would want to know why, and CompStat could tell you this. However this approach could potentially change the culture from one of measuring often irrelevant “proxy” numbers to measuring what actually matters — how safe people feel and how well they feel protected by the police.
+
+Under this system and officer seeing an adverse change in one of the numbers could chose how to address this. This might be an aggressive program of arrests, or this might be community outreach — but in all events officers would be free to use their knowledge of the local area and their experience to determine how to best address each issue, and the force as a whole would be aiming to improve what actually matters — the safety and satisfaction of the community. And surely that can’t be bad.
+
+Nypd
+Policing
+Police Incentives
+Police Reform
+Police
+102
+
+
+
+
+
+Phil Berent

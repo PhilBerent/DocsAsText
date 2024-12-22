@@ -1,0 +1,102 @@
+
+
+Phil Berent
+
+Using Mass-Testing as a Tool to Fight the Pandemic
+·
+Apr 12, 2020
+
+
+
+
+
+
+Currently much of the world’s population is sheltering at home. This is having, and will continue to have, devastating effects on the economy as millions are unable to work and produce the goods, services and food on which our society relies. If this continues for an extended period shortages are inevitable.
+
+If we ignore the pandemic and simply go back to work, the pandemic will continue to spread, potentially resulting in millions of deaths.
+
+There is however an approach which can help to solve this dilemma. The simple answer is mass-testing.
+
+The role of testing is not limited to slowing the spread of COVID-19 or to “flattening the curve”. It can be an effective tool in fighting the pandemic. I propose a solution of testing the entire population of the United States once per month with bi-monthly tests for the first month.
+
+The “Ideal Approach”
+
+The potential impact of testing becomes clear if we consider the admittedly impractical “Ideal Approach” that could be implemented if resources and production capacity were unlimited. If this were the case, it would be possible to test everyone in the population each day. If those with a positive test result were then to self-isolate for the period for which they were likely to be infectious — even if a significant proportion cheated, and did not self-isolate — the pandemic would quickly be brought under control (the assumptions of this contention are discussed below). The U.S. population is approximately is 327 Million and this would mean that this number of tests would need to be conducted every day. The rate of testing in the USA has been increasing quite rapidly and is now at a rate of approximately 170,000 per day (Source: Covid Tracking Project). This is about 5/100ths of 1% of the amount for what I have called the Ideal Approach — meaning that to implement this solution it would be necessary to increase testing capacity by over 1,900 times.
+
+The Universal Monthly Testing Approach
+
+However, even though the Ideal Approach is unlikely to be achievable, it would be possible to dramatically reduce the spread of the pandemic with considerably less testing. Using relatively conservative assumptions if the whole population were tested once per month, with bi-monthly tests for the first month, and again those with positive test results self-isolated; and this was combined with moderate social distancing measures, the economy could be brought back to life with only a low rate of infection and mortality. The details of this approach and the assumptions used to arrive at these conclusions are discussed below.
+
+Even this “Universal Monthly Testing Approach” would require a mammoth national effort, including probably the development of a home testing protocol. However, the required increase in testing capacity would be only 69 times the current levels (as compared to over 1900 times for the Ideal Approach).
+
+The cost of implementing this approach would of course be extremely large. However, if we consider that the GDP of the United States in 2019 was $21.4 trillion (Source: Countryeconomy.com), the U.S. labor force is approximately 156 Million (Source: RI Department of Labor and Trading) we can calculate that the average amount of production lost by each person not working is approximately $11,200 per month — or significantly more than we can expect for the cost of a monthly CV test.
+
+Understanding The Spread of the Pandemic and R0
+
+The pandemic has been widely modeled using the so-called “SIR model”. The most important parameter in understanding the spread of the disease is the “basic reproduction number” or R0 (pronounced “Rnaught”). R0 is the average number of new infections caused by each infected person, if no one in the population is immune. This is not the same as the number of people actually infected, as this depends on the level of immunity in the population.
+
+For example if we assume that R0 is 2 this means that each infected person will infect an average two other people in a population where no one is immune. However, if half of the population is immune, then each infected person will cause only one new infection.
+
+Imperial College London released a report on March 16th, before social distancing measures had been implemented in the U.K., estimating that R0 was between 2 and 2.6 (source: Nature).
+
+A quick consideration of these values leads us to ominous conclusions. As long as each infected individual is infecting more than one other person, the number of infections in the population will continue to grow. This means that even if we take the low end estimate of R0 being equal to 2, the rate of new infections will not even start reducing until half of the population is immune (meaning that each infected person will cause only one further infection). In the United states by the time half the population is immune this would mean that 163.5 Million people would have been infected. The estimates of mortality rate have varied widely. In early March Dr Fauci of the CDC estimated the mortality rate at around 2% (Source: CNN). The World Health Organization analyzed data from China and found a mortality rate of 3.7% for cases diagnosed early in the epidemic falling to .7% for cases with symptom onset after the 1st of February (Source: WHO)
+
+If we assume a mortality rate of 1%, without any complex calculations we can see that under these assumptions there would have to be 1.635 Million deaths before the rate of infections even starts to reduce.
+
+If we follow the implications of the SIR model it is likely — as long as R0 remains 2- that ultimately approximately 80% of the population would be infected (calculations not given here but available or request) which, if we again assume a mortality rate of 1%, would result in 2.61 Million deaths.
+
+The good news is that R0 is not a fixed number. R0 depends both on how easily an infection is passed between individuals and on the number of risky interactions in the population. China has managed to dramatically reduce the rate of infection by implementing a regime of extensive testing and social control. The rate of reduction in new cases in China would suggest that since the beginning of March China has succeeded in reducing R0 to somewhere around 0.2 (calculations available or request).
+
+Alternatives to Universal Testing
+
+Herd Immunity Approach
+
+In the U.K. the government initially espoused an approach of trying to develop “Herd Immunity”. Essentially this means doing nothing. The hope was that enough people would become infected, recover, and become immune to stop the spread of the disease. The folly of this approach becomes apparent if we consider the discussion above. With an R0 of 2, the “herd immunity/do nothing approach” would result in most of the population becoming infected and millions of deaths.
+
+Staying In Lock-Down
+
+Currently much of the world’s population is sheltering at home. This is having, and will continue to have, devastating effects on the economy as millions are unable to work. In the U.S. and the U.K. the government is making direct cash payments so that people can continue to pay rent and buy food. However, sending money doesn’t solve the problem. The “real economy” is not money — rather it is the production of goods and services. The United States is a society which is based on the consumption of goods and services produced by the efforts of its 155 million workforce. If a large proportion of the workforce is furloughed, there simply will not be enough people working to make the goods, plant the crops, drive the trucks, stock the shelves, collect the garbage, and maintain the infrastructure on which the continuation of our society relies. Currently most empty shelves and shortages seem to have resulted from demand — that is, people stocking up on essentials. However, if the lock-down continues for an extended period, shortages of goods, essential services, and most importantly food, are inevitable. (See CNN March 15th)
+
+The other problem of this approach is that there is no “end-game” other than just waiting for the development of a vaccine. If we wait a couple of months and then everyone just goes back to work, we will be right back where we started. Currently (on April 5th 2020) there have been approximately 310,000 cases in the U.S.A. This is less than 1/10th of 1% of the overall population. meaning that we have not developed any significant herd immunity. In the last month (March 3rd to April 3rd) total cases have in the USA have grown by approximately 1,500 times from 221 to 310,000 (Source: worldmeters.info). Unless something else changes, once restrictions are removed, infections could be expected to resume growing at a similar rate.
+
+Moderate Social Distancing
+
+Currently we being urged to practice rigorous social distancing. Most of the population is either working from home or not working at all. People endeavor to stay six feet apart from each other and social gatherings are generally being limited to on-line interactions. If these protocols are adhered to this should have the effect of significantly reducing R0, and the spread of the disease. (Note that although the current restrictions are almost certainly reducing the spread of disease it may be some time — as it was in China and Italy — before the effect is seen in the reported daily numbers of new infections). The problem is that it is not possible for the economy to function while maintaining these restrictions — and removing them would result in a resumption of the spread of infection.
+
+However, this is not an all or nothing question. The choice does not have to be between total isolation and the hand shaking, huggy, kissy, touchy culture we have been used to. Anything that brings down R0 will reduce the rate of spread of the pandemic. It is notable that the rate of growth of infection in Japan has been significantly lower than in the USA. There many possible explanations including that the relatively low rate of testing Japan masks a far higher infection rate than has been reported. However, it has also been argued that the slower spread of infection may result at least in part from a culture where people bow rather than shake hands, where it usual for anyone with any symptoms of illness to wear a mask in public, and people practice rigorous personal hygiene.
+
+If we consider moderate provisions such as wearing masks , avoiding touching, and social distancing where possible we could expect to reduce R0 and the spread of infection.
+
+Moderate Social Distancing will reduce the rate of infection, but cannot by itself be expected to have enough of an impact to allow people to go back to work without restarting the spread of the pandemic.
+
+The Proposed Approach: Universal Monthly Testing and Moderate Social Distancing.
+
+Ultimately we hope that a vaccine will be developed. However this may take some time. Anthony Fauci of the NIAID estimated that this would take at least a year (Source: New Yorker). If we shelter at home for a year, the US economy will be devastated. If we just go back to work and ignore the pandemic, millions will probably die.
+
+An alternative which offers a glimmer of hope is Universal Monthly Testing combined with Moderate Social Distancing measures.
+
+I propose that a universal testing program should be implemented. For the first month of the program tests should be carried out once every two weeks. Following this everyone should be tested once per month. In all cases those with a positive test result should self-quarantine for a period of 15 days. If testing was truly universal and safety measures were fully effective we could expect that for 15 day period following the test that there would be no transmission. That is for this period R0 would be zero.
+
+In reality, we can assume that despite best efforts not everyone would be tested, some people would not self-quarantine, and that safety measures would not be fully effective. Given the experience in China (see above), it is not unreasonable to assume that for this 15 day period the R0 could be brought down to a level of .5. That is to say that on average no more than 1/2 of the people infected would cause a new infection during the period of their illness.
+
+For the following 15 day period between tests R0 would rise back to the level determined by our social interactions. It not unreasonable to assume that our new understanding and caution and Moderate Social Distancing Measures could reduce the level of transmission to below that estimated by Imperial College in March (2–2.6) before the implementation of any social distancing measures. In the following analysis I have assumed that we could maintain and active economy with an R0 of 1.75.
+
+Our expectation of the results of this program of course depend on the assumptions that we put into the model.
+
+To get the discussion started here are some projections. The projections all assume that the true number of cases in the USA is currently 750,000[1], that the average length from infection to recovery is 18 days[2] and a mortality rate of 1%.
+
+
+(The calculations used to create this table are not given her but are available or request.)
+
+The table shows that under the assumptions given, if we shelter in place for the next year we can expect only a low level of mortality from the pandemic. However, as discussed, this approach would lead to a devastation of the economy. If everyone goes back to work — even with Moderate Social Distancing measures we can expect a high rate of infection and millions of deaths. The proposed monthly testing approach combined with Moderate Social distancing (under the specified assumptions) would allow us to restart the economy while experiencing only a low overall level of infection and mortality.
+
+Conclusions and Limitations
+
+My purpose in presenting this analysis is to start a discussion and add to the existing dialogue rather than to present a definitive solution. The parameters that I used in modelling are only best guesses and the SIR model itself is a simplified version of reality. Nevertheless, the basic idea that mass-testing combined with Moderate Social Distancing measures could allow us to restart the economy without a population wide spread of the pandemic is relatively insensitive to the assumptions.
+
+Currently the we are very far from being able to achieve the level of testing required to implement the proposed approach. My hope therefore is to add my voice to those pressing for the urgency and importance of increasing testing capacity.
+
+[1] At the time of writing 325,000 cases have been reported and I am therefore assuming that 50% of active cases have not been reported. Assuming that all cases have been reported (i.e. that the total number of cases is 325,000) is unrealistic and would imply a far higher mortality rate than the 1% which is assumed here.
+
+[2] Assuming 4 days from infection to onset and 14 days from onset to recovery (Source: WHO). This estimate is conservative as according to the WHO report many infections can last significantly longer — and an assumption of longer duration of infection, given a value of R0 , would result in a lower rate of progression of the pandemic.
+

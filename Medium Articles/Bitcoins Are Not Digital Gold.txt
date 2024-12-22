@@ -1,0 +1,53 @@
+Bitcoins Are Not “Digital Gold”
+
+Aug 8, 2021
+
+
+
+
+
+
+
+
+It is often argued that cryptocurrencies are the “new gold” and are therefore a rational investment as a store of value or a hedge against inflation. Those making this argument claim that gold only has value, because everyone believes that it does, and because it is scarce. There is no reason therefore, that in a digital world, a digital asset with a limited supply such as Bitcoins should not be seen as an equivalent investment.
+
+This misses the point that gold does have value. There are several industrial applications, but these make up a relatively small proportion of total demand. The main value of gold is the subjective consensus that gold is beautiful. This is reflected in the fact that 46.3% of the world’s gold exists in the form of jewelry, far exceeding the amounts held for private investment or in national reserves (Gold.org Feb 2021 estimate).
+
+Gold has been valued for its beauty in diverse and geographically separate cultures, from Ancient Egypt to Pre-Colombian Mexico and Peru. Just because “beauty” is a subjective quality, doesn’t mean that the value is any less real. After all, the demand for fancy cars, nice clothes and spacious apartments are all based on human desires, and therefore ultimately equally subjective.
+
+The value of gold arises because by consensus it is beautiful, but also because it is scarce. Flowers are also agreed to be beautiful but are abundant, and therefore have a relatively low price. The metal osmium is 1,000 times rarer than gold, but it is has few industrial uses, and is not considered decorative and so has a much lower price (University of Melbourne, report 2017).
+
+Holding gold, or investment funds linked to gold, may or may not yield good long term returns. This depends on what happens to supply, and the demand for its various uses. However, given that it has been valued for its beauty for thousands of years, and that there is no expectation of a large new source of supply, it is likely that it will continue to be a highly valued commodity.
+
+Why Bitcoins are Different
+
+Bitcoins are different because almost all of their market price comes from Speculative Value.
+
+Bitcoins do have some Use Value. The Use Value of Bitcoins arises mainly from the fact that they can be used for some transactions which cannot be made with hard currency. If a purchase can also be made using hard currency there is no real Use Value of transacting with Bitcoins.
+
+A large proportion of the transactions for which buyers really need Bitcoins involve the purchase of drugs, weapons, or other illicit items on the dark web. Ransomware hackers also need to use Bitcoins so that they can be paid easily by their victims, and can reduce the probability of being traced.
+
+There are also legitimate and lawful uses of cryptocurrencies, some are listed here (bravenewcoin.com).
+
+However, the important point is that the vast majority of the $828 Billion worth of Bitcoins (market cap at time of writing on August 8th 2021) is held by individuals and institutions that are not buying and selling drugs or weapons or engaging in ransomware attacks. The chances are that if you are reading this, and if you hold Bitcoins, you are holding them as an investment — rather than for their Use Value in transactions. As Bitcoins pay no interest[i], you are holding them, like almost everyone else, based on the belief that the price will rise.
+
+In other words, almost all of the demand for Bitcoins comes from Speculative Demand. However, even that is not what we usually mean by Speculative Demand.
+
+The prices of stocks, commodities and currencies can also be artificially inflated by Speculative Demand. However, in these cases the speculation is driven by the expectation that the underlying intrinsic value will “catch up” to the current market valuation. For example, a stock may trade at a level above that justified by the current dividends, if people believe that the company will grow or develop new product lines. Similarly, a commodity may trade at a high price if it is believed that will be a future increase in demand.
+
+The Speculative Demand for Bitcoins, however, is not driven by an expected increase in Use Value; rather it stems from the belief that yet more speculators will come into the market. Much excited Bitcoin “chatter” recently has centered around the expectation that institutional investors and hedge funds will increase their Bitcoin holdings. These investors are also getting into the market because they believe in the “long term potential” of Bitcoins. In other words because they think, like almost everyone else holding Bitcoins, that the price will rise. Or to put it another way Speculative Demand for Bitcoins is driven by an expectation of further increases in Speculative Demand.
+
+This can’t go on for ever. At some point additional Speculative Demand will dry up. At that point the price will stop rising. The market does not have an “equilibrium price” where it will just happily sit when everyone has bought the number of Bitcoins that they require. This is because if the price is perceived to be “stable” — (i.e. that is to have stopped rising) the participants, who are only in the market because they were looking for further rises, will now sell.
+
+This is a cycle that we have already seen play out several times.
+
+It is of course possible that it may take several years for Speculative Demand to be satiated.
+
+In the last five years we have seen the price of Bitcoins go from 600 to 19,000 down to 3,300, back up to 63,000, down to 29,000 and now back up to 44,000. With this volatility, I don’t see how anyone can argue that Bitcoins have any real use as a “store of value” or a “hedge against inflation” (or a hedge against anything else).
+
+Admit it: if you are holding Bitcoins, it’s because you think the price will rise.
+
+If you buy Bitcoins, you may indeed make money. However, if you do so, its only because you are smart enough to get out before other investors do. Rather than being the “new gold”, Bitcoins are better described as a form of “financial musical chairs”
+
+[i] It is possible on some exchanges to earn interest by lending Bitcoins. These in turn are borrowed , and the interest is paid, by those wishing to take short positions. The point is that that unlike bonds, where the interest is intrinsic to the instrument itself, here interest is paid not by the Bitcoin, but by other market participants. Once again it is a zero sum game, with interest received by one participant, being paid by another.
+
